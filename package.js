@@ -10,7 +10,7 @@ Package.onUse(function (api) {
 
   // Core dependencies.
   api.use([
-    'coffeescript@2.0.3_3',
+    'coffeescript',
     'ecmascript',
     'underscore'
   ]);
